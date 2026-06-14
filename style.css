@@ -1,21 +1,55 @@
-    h1,h2{
-        color:rgb(223, 201, 0);
-        text-align:center;
-       background-color: black;
-       border-radius: 15px; 
-    }
-    p{
-        text-align: center;
-    }
-    img{
-        width: 300px;
-       
+h1,h2,h3{
+        color: rgb(255, 225, 0);
+        background-color: black;
         border-radius: 15px;
-        
-
-    
-    
-
-
 
     }
+    p1{
+       background-color: black;
+        color: rgb(2, 9, 205);
+      
+        }
+        p2{
+            background-color: black;
+        color: rgb(2, 9, 205);
+       
+        }
+        p3{
+            background-color: black;
+        color: rgb(2, 9, 205);
+        
+        }
+    img.png{
+        width:400px;
+        margin-top:50px;
+    }
+.divN{
+
+    
+    background-color: black;
+    width: 550px;
+    margin: auto;
+    border: 50px;
+    border-style: solid ;
+    border-radius: 50px;
+
+
+}
+.divD{
+
+background-color: black;
+    width: 550px;
+    margin: auto;
+    border: 50px;
+    border-style: solid ;
+    border-radius: 50px;
+
+}
+
+
+
+
+
+
+
+
