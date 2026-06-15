@@ -23,6 +23,12 @@ h1,h2,h3{
         width:400px;
         margin-top:50px;
     }
+    .divprime{
+        background-image: url('image copy.png');
+
+        background-size: cover; 
+
+    }
 .divN{
 
     
@@ -45,7 +51,6 @@ background-color: black;
     border-radius: 50px;
 
 }
-
 
 
 
